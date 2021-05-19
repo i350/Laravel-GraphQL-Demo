@@ -22,7 +22,7 @@ This project uses  [Laravel GraphQL](https://github.com/rebing/graphql-laravel) 
 
 You can run and test the project using the following postman collection:
 
-[Click and download](https://raw.githubusercontent.com/i350/Laravel-GraphQL-Demo/master/https://github.com/i350/Laravel-GraphQL-Demo/GraphQL.postman_collection.json)
+[Click and download](https://raw.githubusercontent.com/i350/Laravel-GraphQL-Demo/master/GraphQL.postman_collection.json)
 
 or 
 
