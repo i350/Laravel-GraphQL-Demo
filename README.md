@@ -39,3 +39,9 @@ Download it and import to Postman,
 </p>
 
 Then you will fine a ready-made requests for test
+
+## Playground
+
+You can access your play-ground after running the local server:
+
+``` http://localhost:8000/graphql-playground ```
